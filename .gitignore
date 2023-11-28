@@ -1,0 +1,8 @@
+transacoes/
+*.whl
+*.png
+*.txt
+content
+*.gz
+__pycache__/
+send_email.py

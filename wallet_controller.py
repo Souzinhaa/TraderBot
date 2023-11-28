@@ -1,23 +1,6 @@
 # Usar python 3.9 e TA_Lib-0.4.24-cp39-cp39-win_amd64.whl
 # from binance.client import Clientcommand:workbench.trust.manage
-import unicodedata
-import json
-import requests
-import datetime
-import numpy as np
-import matplotlib.pyplot as plt
 import matplotlib
-import plotly.graph_objects as go
-import pandas_datareader as pdr
-import pandas as pd
-import yfinance as yf
-import statsmodels.api as sm
-from collections import defaultdict
-import prices as pc
-import time
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 import utils
 
 matplotlib.style.use('ggplot')
